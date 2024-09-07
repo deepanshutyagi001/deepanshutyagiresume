@@ -1,0 +1,13 @@
+h1{
+    
+    color: gold;
+}
+h2{
+    color: gold;
+}
+body{
+    color: green;
+}
+ div ,section{
+    border: solid black;
+}
